@@ -111,6 +111,16 @@ a{
     color: fuchsia;
 }
 
+#My Inspiration is Malala Yousafzai{
+    background-color: aquamarine;
+    width: 100%;
+    height: 800px;
+}
+
+h3{
+    font-size: 20px;
+    color: crimson;
+}
 html{
     scroll-behavior: smooth;
 }
